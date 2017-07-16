@@ -3,16 +3,6 @@
 This project provides a look at getting started using Angular 2 Http functionality and how it can be used
 to call a Node.js RESTful service.  
 
-## Angular 2 Concepts Covered
-
-* Using TypeScript classes and modules
-* Modules are loaded with System.js
-* Using Custom Components
-* Using the Http object for Ajax calls along with RxJS observables
-* Performing GET, PUT, POST and DELETE requests to the server
-* Working with Angular 2 service classes for Ajax calls
-* Using Angular 2 databinding and built-in directives
-
 ## Software Requirements To Run Locally (there's a Docker option below as well)
 
 * Node.js 6.5.0 or higher
