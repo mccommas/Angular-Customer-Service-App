@@ -1,9 +1,6 @@
 {
     "name": "angular-nodejs-mongodb-customersservice",
     "version": "1.0.0",
-    "repository": {
-        "url": "https://github.com/DanWahlin/Angular-NodeJS-MongoDB-CustomersService"
-    },
     "license": "MIT",
     "scripts": {
         "tsc": "tsc",
